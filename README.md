@@ -4,7 +4,8 @@ DocNest is a full-stack web application designed to assist academic institutions
 
 The system integrates AI-powered document classification, intelligent search, and accreditation readiness analytics to help institutions reduce manual effort, improve transparency, and maintain continuous compliance readiness.
 
-🔗 **Live Demo**: [https://nba-rose.vercel.app](https://nba-rose.vercel.app)
+
+🔗 **Live Demo** : [https://nba-rose.vercel.app](https://nba-rose.vercel.app)
 
 ---
 
